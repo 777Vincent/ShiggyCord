@@ -12,7 +12,7 @@ ShiggyCord is the ultimate tool to shiggyify your Discord experience with the on
 
 ## How to Use ShiggyCord? :3
 
-1. Download and run the `shiggy.exe` file.
+1. Download and run the `shiggy.py` file. (requires python to be installed)
 2. Open Discord and focus on the app. :0
 3. Use the hotkeys to summon Shiggys and spread the cuteness! Yippee!!! :D
 
@@ -23,4 +23,4 @@ Keep in mind that ShiggyCord is a fun tool meant for entertainment purposes only
 ## Credits :D
 
 ShiggyCord is brought to you by the one and only Shiggy lovers' community. Special thanks to Viggy, our beloved inspiration! (Oxygen not included, Viggy died) :(
---remember, to exit the program the ONLY CHOICE is to run `ctrl+alt+f`. you will not find shiggycord in tray, TM, or taskbar.
+--remember, to exit the program the run `ctrl+alt+f`, or find and remove shiggy from your task manager!
