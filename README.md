@@ -14,8 +14,10 @@ ShiggyCord is the ultimate tool to shiggyify your Discord experience with the on
 ## How to Use ShiggyCord? :3
 
 1. Download and run the `shiggy.py` file. (requires python to be installed)
-2. Open Discord and focus on the app. :0
-3. Use the hotkeys to summon Shiggys and spread the cuteness! Yippee!!! :D
+   -in cmd open the folder that contains shiggy (`cd folder/etc`)
+   -run `python shiggy.py`
+3. Open Discord and focus on the app. :0
+4. Use the hotkeys to summon Shiggys and spread the cuteness! Yippee!!! :D
 
 ## Important Note :0
 
