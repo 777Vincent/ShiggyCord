@@ -1,4 +1,5 @@
 # ShiggyCord
+![image](https://github.com/user-attachments/assets/9cf0d9ef-1f41-4749-b5e3-4db732ade157)
 
 ## What is ShiggyCord? :0
 
